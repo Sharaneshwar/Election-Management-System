@@ -1,2 +1,2 @@
-# CM2I-PCI-Microproject
-Micro-project code of Election Management System made in C language
+# Election Management System
+Used C language to develop an Election-Management System using File Handling and basics of C language.
